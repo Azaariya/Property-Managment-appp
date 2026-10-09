@@ -55,7 +55,14 @@ EstateHub is a modern real estate web application built with React and Vite. It 
 
 ## 📸 Screenshots
 
-Screenshots of the application will be added here.
+### Property Listing
+
+![EstateHub Property Listing](<property listing.png>)
+
+### Property Detail
+
+![EstateHub Property Detail](<property detail.png>)
+
 
 ## 🎯 Project Goals
 
