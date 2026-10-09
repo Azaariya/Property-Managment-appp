@@ -53,6 +53,21 @@ EstateHub is a modern real estate web application built with React and Vite. It 
 
 5. Open the local URL displayed in your terminal.
 
+## 🌐 Live Demo
+
+[**View EstateHub — Property Management App**](https://property-managment-app-by-azariya.netlify.app/)
+
+## 📸 Screenshots
+
+### Property Listing
+
+![EstateHub Property Listing](<property listing.png>)
+
+### Property Detail
+
+![EstateHub Property Detail](<property detail.png>)
+
+
 ## 📸 Screenshots
 
 ### Property Listing
